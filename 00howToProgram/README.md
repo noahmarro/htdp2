@@ -1,4 +1,4 @@
-# Prolog: How to Program
+# Prologue: How to Program
 
 To program is to write down comprehensible arithmetic expressions, and to compute is to determine their value.
 
