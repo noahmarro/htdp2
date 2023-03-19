@@ -1,7 +1,13 @@
-.DS_Store
+# book
+book/
+
+# Racket
 compiled/
 /doc/
 *~
 *.bak
 \#*
 .\#*
+
+# misc
+.DS_Store
