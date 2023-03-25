@@ -16,3 +16,23 @@ Better yet, if you ever need to change a part of the program due to some change 
 We use uppercase letters for global constants to easily distinguish such variables from others.
 
 > For every constant mentioned in a problem statement, introduce one constant definition.
+
+### Programs
+
+**Interactive Functions**
+
+```Racket
+(big-bang cw0
+  [on-tick tock]
+  [on-key ke-h]
+  [on-mouse me-h]
+  [to-draw render]
+  [stop-when end?]
+  ...)
+```
+
+![Explanation of the above function](ressources/readme-img-01.png)
+
+## How to Design Programs
+
+
